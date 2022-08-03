@@ -3,5 +3,6 @@ contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: https://github.com/kohei-fujii/ToDo.git
+    url: https://github.com/kohei-fujii/ToDo/issues/new?template=custom.md&projects=kohei-fujii%2FToDo%2F1&labels=ToDo
+    
    
